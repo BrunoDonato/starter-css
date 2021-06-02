@@ -13,9 +13,9 @@
 HTML:
 <h1>Titulo da página</h1>
 
-CSS:
+```css
 h1 {
     color: blue;
 }
-
+```
 ## A frase "Titulo da página" ficará azul

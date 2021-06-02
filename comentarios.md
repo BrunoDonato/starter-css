@@ -6,4 +6,4 @@
 * Ajuda outros a entenderem;
 * Nunca esqueça de fechar um comentario aberto;
 
-Comentários começam com ´ /* ´ e terminam com ´ */ ´
+Comentários começam com `/*` e terminam com `*/`
