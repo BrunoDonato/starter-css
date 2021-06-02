@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap';
+
+h1 {
+    color: aqua;
+    font-family: 'Odibee Sans', cursive;
+}
+
+strong {
+    color: red;
+    font-family: 'Odibee Sans', cursive;
+}
